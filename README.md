@@ -5,7 +5,9 @@ Keep the selected split-diff row visible at the bottom of [Hunk](https://hunk.de
 [![CI](https://github.com/modem-dev/hunk-lens/actions/workflows/ci.yml/badge.svg)](https://github.com/modem-dev/hunk-lens/actions/workflows/ci.yml)
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
-![Hunk Lens pinning the selected split-diff row below the review](assets/hunk-lens.png)
+![Hunk Lens following the selected split-diff row through a review, pinned at the bottom with old above and new below](assets/hunk-lens.gif)
+
+<sub>Prefer a still? See the [screenshot](assets/hunk-lens.png).</sub>
 
 ## Install
 
