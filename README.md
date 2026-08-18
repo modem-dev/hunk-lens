@@ -5,6 +5,8 @@ Keep the selected split-diff row visible at the bottom of [Hunk](https://hunk.de
 [![CI](https://github.com/modem-dev/hunk-lens/actions/workflows/ci.yml/badge.svg)](https://github.com/modem-dev/hunk-lens/actions/workflows/ci.yml)
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
+![Hunk Lens pinning the selected split-diff row below the review](assets/hunk-lens.png)
+
 ## Install
 
 Hunk 0.19 or newer can install the extension directly from GitHub:
